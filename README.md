@@ -13,7 +13,7 @@ I've been coding homepages since the good old days of GeoCities, worked a few ye
 *   🧠  I'm learning Python, JavaScript, SQL, and everything else useful.
 *   🤝  I'm open to collaborating on anything related to travel, physics, spaaaaaaaace, science stuff.
 
-
+![](https://github.com/Psijii/Psijii/blob/main/space.gif)
 
 ### Skills 
 
