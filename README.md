@@ -4,7 +4,7 @@ Hi :vulcan_salute: My name is Siw Årolilja Iversen
 I am a UX-designer and front end-developer
 ------------------------------------------
 
-I've been coding hoepages since the good old days of GeoCities, worked a few years as a graphic designer, and now I'm a UX-designer and FED. As well as well-versed in IT in general.
+I've been coding homepages since the good old days of GeoCities, worked a few years as a graphic designer, and now I'm a UX-designer and FED. As well as well-versed in IT in general.
 
 *   🌍  I'm based in Bergen, Norway
 *   🖥️  See my portfolio at [here!](https://techlilja.io/)
