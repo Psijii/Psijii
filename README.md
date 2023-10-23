@@ -7,11 +7,11 @@ I am a UX-designer and front end-developer
 I've been coding hoepages since the good old days of GeoCities, worked a few years as a graphic designer, and now I'm a UX-designer and FED. As well as well-versed in IT in general.
 
 *   🌍  I'm based in Bergen, Norway
-*   🖥️  See my portfolio at [here! (temp. link)](http://hilarious-cat-d77aac.netlify.app/)
+*   🖥️  See my portfolio at [here!](https://techlilja.io/)
 *   ✉️  You can contact me at [siw@techlilja.io](mailto:siw@techlilja.io)
 *   🚀  I'm currently working on [Studies, studies, and more studies](http://uib.no)
-*   🧠  I'm learning Python, JavaScript, TypeScript, SCSS
-*   🤝  I'm open to collaborating on shopping-, fashion- and travel-blogs
+*   🧠  I'm learning Python, JavaScript, SQL, and everything else useful.
+*   🤝  I'm open to collaborating on shopping-, fashion- and travel-blogs, and probably a lot more.
 
 ### Skills 
 <p align="left">
