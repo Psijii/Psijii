@@ -19,8 +19,6 @@ I've been coding homepages since the good old days of GeoCities, worked a few ye
 
   [![My Skills](https://skillicons.dev/icons?i=figma,javascript,css,sass,html,python,ai,ps,mysql,wordpress,&theme=light&perline=5)](https://skillicons.dev)
   
-
-
 # Latest projects
 
 The three projects I've been working on, has been built with:
@@ -44,7 +42,7 @@ The three projects I've been working on, has been built with:
 * Live site: https://hilarious-torrone-459941.netlify.app/
 
 # I'm still learning.
-These are all my school projects, and it has been many years sinsce I worked with this. So there is a lot to get started with again!
+These are all my school projects, and it has been many years since I worked with this. So there is a lot to get started with again!
                     
  ### Socials
 <p align="left">
