@@ -7,10 +7,10 @@ I am a UX-designer and front end-developer
 I've been coding homepages since the good old days of GeoCities, worked a few years as a graphic designer, and now I'm a UX-designer and FED. As well as well-versed in IT in general.
 
 *   🌍  I'm based in Bergen, Norway
-*   🖥️  See my portfolio at [here!](https://techlilja.io/)
-*   ✉️  You can contact me at [siw@techlilja.io](mailto:siw@techlilja.io)
-*   🚀  I'm currently working on [Studies, studies, and more studies](http://uib.no)
-*   🧠  I'm learning Python, JavaScript, SQL, and everything else useful.
+*   🖥️  See my portfolio at [here!]([https://techlilja.io/](https://dulcet-lebkuchen-e55544.netlify.app/))
+*   ✉️  You can contact me at [siw@techlilja.io](mailto:siw.arolilja@gmail.com)
+*   🚀  I'm currently working with [Information Science @ UiB](http://uib.no)
+*   🧠  I'm learning Algorithms, data structures and dad jokes.
 *   🤝  I'm open to collaborating on anything related to travel, physics, spaaaaaaaace, science stuff.
 
 ![](https://github.com/Psijii/Psijii/blob/main/space.gif)
@@ -22,27 +22,11 @@ I've been coding homepages since the good old days of GeoCities, worked a few ye
 # Latest projects
 
 The three projects I've been working on, has been built with:
-* Figma for design all projects.
-* HTML & CSS for SCI MU and gameHUB.
-* * gameHUB is HTML & CSS Course Assignment.
-* * SCI MU is Semester Project '22 in HTML & CSS.
-* HTML, CSS & JavaScript for Callie Furmint.
-* * This is the project exam.
+* Figma for designing all projects.
+* * In some cases I resorted to pen and paper and the quick 8-challenges from UX workshops.
+* HTML, SCSS, BootStrap, TailWind, React in different variations.
 
-## gameHUB:
-* Repository: https://github.com/Psijii/2022-11-10_htmlcss_CA_Siw-Elin-Aarolilja-Iversen_fp
-* Live site: https://gamehub.techlilja.io/
 
-## SCI MU:
-* Repository: https://github.com/Psijii/SP1Iversen
-* Live site: https://funny-arithmetic-727e66.netlify.app/
-
-## Callie Furmint:
-* Repository: https://github.com/Noroff-FEU-Assignments/project-exam-1-Psijii
-* Live site: https://hilarious-torrone-459941.netlify.app/
-
-# I'm still learning.
-These are all my school projects, and it has been many years since I worked with this. So there is a lot to get started with again!
                     
  ### Socials
 <p align="left">
