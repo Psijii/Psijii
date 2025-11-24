@@ -16,7 +16,7 @@ I've been coding homepages since the good old days of GeoCities, worked a few ye
 
 ### Skills 
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,javascript,css,sass,html,python,ai,ps,mysql,wordpress,&theme=light&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,javascript,css,sass,html,python,ai,ps,mysql,wordpress,ts,xd,&theme=light&perline=5)](https://skillicons.dev)
   
 # Latest projects
 
