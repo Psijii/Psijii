@@ -7,9 +7,9 @@ I am a UX-designer and front end-developer
 I've been coding homepages since the good old days of GeoCities, worked a few years as a graphic designer, and now I'm a UX-designer and FED. As well as well-versed in IT in general.
 
 *   🌍  I'm based in Bergen, Norway, and I don't intend to move away from this lovely city.
-*   ✉️  You can contact me at [@@@(mailto:siw.arolilja@gmail.com)
 *   🚀  ~~I'm currently working with [Information Science @ UiB](http://uib.no)~~
 *   🧠  I'm learning Algorithms, data structures and dad jokes.
+*   🧐 I like to work with processes and procedures, I like structure.
 *   🤝  I'm open to collaborating on anything related to travel, physics, spaaaaaaaace, science stuff. [~~I'm a huge nerd.~~](https://youtu.be/N9qYF9DZPdw)
 
 ![](https://github.com/Psijii/Psijii/blob/main/space.gif)
