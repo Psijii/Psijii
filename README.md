@@ -8,7 +8,6 @@ I've been coding homepages since the good old days of GeoCities, worked a few ye
 
 *   🌍  I'm based in Bergen, Norway, and I don't intend to move away from this lovely city.
 *   🚀  ~~I'm currently working with [Information Science @ UiB](http://uib.no)~~
-*   🧠  I'm learning Algorithms, data structures and dad jokes.
 *   🧐 I like to work with processes and procedures, I like structure.
 *   🤝  I'm open to collaborating on anything related to travel, physics, spaaaaaaaace, science stuff. [~~I'm a huge nerd.~~](https://youtu.be/N9qYF9DZPdw)
 
